@@ -1,3 +1,7 @@
+# Checkpoint
+https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html#tutorial-setup
+
+
 .. -*- mode: rst -*-
 
 |Azure|_ |CirrusCI|_ |Codecov|_ |CircleCI|_ |Nightly wheels|_ |Black|_ |PythonVersion|_ |PyPi|_ |DOI|_ |Benchmark|_
